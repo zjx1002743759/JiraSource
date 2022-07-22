@@ -1,0 +1,7 @@
+localrepo/
+**/target/
+**/node_modules/
+**/*.log
+**/logs/
+**/temp/
+**/tmp/
